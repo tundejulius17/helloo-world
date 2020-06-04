@@ -1,3 +1,4 @@
 # helloo-world
 Just a repository
-Tunde here, I like Java, C#, Python, ABPA, R. 
+I am Tunde, a data scientist from Finland.
+I am proficient in Java, Python and R.
