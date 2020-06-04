@@ -1,3 +1,4 @@
-# helloo-world
+# hello-world
 Just a repository
-Tunde here, I like Java, C#, Python, ABPA, R. 
+I am a data scientist. Proficient in Java, Python and R. 
+
